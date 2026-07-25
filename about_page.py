@@ -1,7 +1,7 @@
 import streamlit as st
 
 EMAIL = ""
-GITHUB_URL = https://github.com/irina-tenyanko/my-first-repository
+GITHUB_URL = "https://github.com/irina-tenyanko/my-first-repository"
  
 
 def show_about_page():

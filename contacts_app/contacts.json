@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3,
+    "name": "Іра",
+    "phone": "+380951686645",
+    "email": "irinatenanko@gmail.com",
+    "city": "Київ"
+  },
+  {
+    "id": 4,
+    "name": "Стас",
+    "phone": "+380998765432",
+    "email": "vivo@gmail.com",
+    "city": "Київ"
+  },
+  {
+    "id": 5,
+    "name": "Лука",
+    "phone": "+380996742311",
+    "email": "luka@gmail.com",
+    "city": "Київ",
+    "sex": "чоловіча"
+  },
+  {
+    "id": 6,
+    "name": "Віталій",
+    "phone": "+380978885533",
+    "email": "viviv@gmail.com",
+    "city": "Київ",
+    "sex": "чоловіча"
+  }
+]

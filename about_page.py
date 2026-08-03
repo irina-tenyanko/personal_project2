@@ -6,7 +6,7 @@ GITHUB_URL = "https://github.com/irina-tenyanko/my-first-repository"
 
 def show_about_page():
     st.image(
-        "https://avatars.githubusercontent.com/u/302417000?s=400&v=4",
+        "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=400&q=80",
         width=180,
     )
     st.title("Irina")

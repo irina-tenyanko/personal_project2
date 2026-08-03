@@ -15,6 +15,13 @@ def show_about_page():
             "Застосунок для збереження контактів. Користувач може додавати, видаляти, шукати і фільтрувати контакти."
         )
         st.write("Технології: Python, Streamlit, JSON, pandas")
+    with st.container(border=True):
+        st.subheader("Мої улюблені місця")
+        st.write(
+            "Застосунок для перегляду добірки пам'ятних місць і цікавих локацій. Зберігає спогади про подорожі і "
+            "допомагає планувати майбутні пригоди."
+        )
+        st.write("Технології: Python, Streamlit, HTML, CSS")
 
     st.subheader("Мої контакти")
     with st.container(border=True):

@@ -5,6 +5,10 @@ GITHUB_URL = "https://github.com/irina-tenyanko/my-first-repository"
  
 
 def show_about_page():
+    st.image(
+        "https://api.dicebear.com/7.x/thumbs/svg?seed=Irina",
+        width=180,
+    )
     st.title("Irina")
 
     st.subheader("Мої проєкти")
